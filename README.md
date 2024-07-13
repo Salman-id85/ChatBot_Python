@@ -8,7 +8,7 @@ A chatbot, short for chat robot, is an AI-powered software application designed 
 
 The provided code is a simple implementation of a chatbot in Python, designed to engage in basic text-based conversations with users. It begins by defining a dictionary called `responses`, which maps specific user inputs to predefined responses. The `get_response` function processes user inputs by converting them to lowercase and stripping any leading or trailing whitespace to ensure consistent matching. It then checks if the cleaned input matches any key in the `responses` dictionary and returns the corresponding response or a default message if there is no match. The `main` function starts by printing a welcome message and enters a loop, where it continuously prompts the user for input, calls `get_response` to generate a reply, and prints the bot's response. The loop terminates when the user types "bye". The script is designed to be run directly, ensuring that the `main` function is executed, thereby initiating the chatbot interaction. This straightforward approach allows for easy extension and enhancement, such as adding more responses or integrating with more advanced natural language processing tools.
 
-Code Link : 
+Code Link : https://github.com/Salman-id85/ChatBot_Python/commit/21ff3e2211e70bfef9923cb092a8f1ee2736a3e0
 
 # Conclusion
 
