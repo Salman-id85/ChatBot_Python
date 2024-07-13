@@ -22,4 +22,4 @@ The type are output genrate based on instrution write commands below!
 
 Write this all things work on bot genrate outputs.
 
-Output Link : 
+Output Link : https://github.com/Salman-id85/ChatBot_Python/blob/main/Instruction_Line
